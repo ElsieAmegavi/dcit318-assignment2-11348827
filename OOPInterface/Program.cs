@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOPInterfaceDemo
+namespace OOPInterface
 {
 	// Define the IMovable interface
 	interface IMovable

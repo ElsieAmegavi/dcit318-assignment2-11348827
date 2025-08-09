@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\bin\Debug\net9.0\OOPInterface.exe
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\bin\Debug\net9.0\OOPInterface.deps.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\bin\Debug\net9.0\OOPInterface.runtimeconfig.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\bin\Debug\net9.0\OOPInterface.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\bin\Debug\net9.0\OOPInterface.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.AssemblyInfo.cs
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.sourcelink.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\refint\OOPInterface.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\OOPInterface.genruntimeconfig.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInterface\obj\Debug\net9.0\ref\OOPInterface.dll
