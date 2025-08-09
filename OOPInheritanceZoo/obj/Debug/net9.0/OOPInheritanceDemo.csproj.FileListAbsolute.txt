@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\bin\Debug\net9.0\OOPInheritanceDemo.exe
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\bin\Debug\net9.0\OOPInheritanceDemo.deps.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\bin\Debug\net9.0\OOPInheritanceDemo.runtimeconfig.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\bin\Debug\net9.0\OOPInheritanceDemo.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\bin\Debug\net9.0\OOPInheritanceDemo.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\OOPInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\OOPInheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\OOPInheritanceDemo.AssemblyInfo.cs
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\OOPInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\OOPInheritanceDemo.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\refint\OOPInheritanceDemo.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\OOPInheritanceDemo.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\OOPInheritanceDemo.genruntimeconfig.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPInheritanceDemo\obj\Debug\net9.0\ref\OOPInheritanceDemo.dll
