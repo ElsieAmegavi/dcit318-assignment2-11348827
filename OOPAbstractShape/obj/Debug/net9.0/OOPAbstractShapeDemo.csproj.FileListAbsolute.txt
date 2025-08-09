@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\bin\Debug\net9.0\OOPAbstractShapeDemo.exe
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\bin\Debug\net9.0\OOPAbstractShapeDemo.deps.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\bin\Debug\net9.0\OOPAbstractShapeDemo.runtimeconfig.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\bin\Debug\net9.0\OOPAbstractShapeDemo.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\bin\Debug\net9.0\OOPAbstractShapeDemo.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.AssemblyInfo.cs
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.sourcelink.json
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\refint\OOPAbstractShapeDemo.dll
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.pdb
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\OOPAbstractShapeDemo.genruntimeconfig.cache
+C:\Users\DELL\Documents\School\DCIT 318 - PROGRAMMING II\dcit318-assignment2-11348827\OOPAbstractShapeDemo\obj\Debug\net9.0\ref\OOPAbstractShapeDemo.dll

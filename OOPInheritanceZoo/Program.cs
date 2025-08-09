@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOPInheritanceDemo
+namespace OOPInheritanceZoo
 {
 	// Base class
 	class Animal
